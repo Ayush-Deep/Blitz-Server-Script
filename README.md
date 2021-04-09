@@ -9,6 +9,7 @@ SETUP
 
 Git Clone Or Download My Files
 
+gh repo clone Ayush-Deep/Blitz-Server-Files
 
 Upload In Your Instance
 
