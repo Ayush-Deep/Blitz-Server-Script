@@ -1,4 +1,4 @@
-# Blitz-Server-Files
+**Blitz-Server-Script**
 THESE FILES ARE CREATED BY BLITZ MODDERS
 
 
