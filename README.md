@@ -10,7 +10,7 @@ SPECIAL THANKS TO PCModder
 
 **Git Clone Or Download My Files**
 
-![Git Clone](gh repo clone Ayush-Deep/Blitz-Server-Files)
+![Git Clone](https://github.com/Ayush-Deep/Blitz-Server-Script.git)
 
 Upload In Your Instance
 
