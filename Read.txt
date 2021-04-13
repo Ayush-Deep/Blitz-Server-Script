@@ -1,0 +1,33 @@
+Read Before Using Script
+
+Do Not Edit Scrit/Copy My Script
+
+
+Commands
+Fun
+
+"/smg" and "/em" To Use Emoji Or Send Msg In Screen
+
+E.g "/em lol"
+List Of Emojis
+1.huh
+2.dead
+3.what
+4.fire
+5.angry
+6.power
+
+Moderation
+
+"/autoadmin" and "/autovip"
+E.g "/autoadmin 3" Gives Admin To Rank 3
+
+"/settings" To Check Settings Available
+1 Is For True/On
+0 Is For False/Off
+
+E.g "/settings 1 1" Will Turn Setting 1 To True
+ And "/settings 1 0" Will Turn Setting 1 To False
+
+Restart The Server Using "/quit"  
+
