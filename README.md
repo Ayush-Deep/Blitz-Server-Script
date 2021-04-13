@@ -27,7 +27,7 @@ Enjoy Bombsquading
 
 Thanks For Using My Script
 <h2>FEATURES</h2>
-![READ HERE]()
+![READ HERE](https://github.com/Ayush-Deep/Blitz-Server-Script/blob/main/Read.txt)
 1.New Commands For Owners
 2.Effects
 3.New Admin Sys
