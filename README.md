@@ -3,7 +3,7 @@
 THESE FILES ARE CREATED BY BLITZ MODDERS
 
 
-SPECIAL THANKS TO PCModder
+**SPECIAL THANKS TO PCModder**
 
 <h2>SETUP</h2>
 
@@ -27,8 +27,8 @@ Enjoy Bombsquading
 
 Thanks For Using My Script
 <h2>FEATURES</h2>
-![READ HERE](https://github.com/Ayush-Deep/Blitz-Server-Script/blob/main/Read.txt)
 
+![Read Here](https://github.com/Ayush-Deep/Blitz-Server-Script/blob/main/Read.txt)
 
 1.New Commands For Owners
 
