@@ -29,5 +29,6 @@ E.g "/autoadmin 3" Gives Admin To Rank 3
 E.g "/settings 1 1" Will Turn Setting 1 To True
  And "/settings 1 0" Will Turn Setting 1 To False
 
+"/perk" To Get Special Abilities
 Restart The Server Using "/quit"  
 
