@@ -47,4 +47,6 @@ Thanks For Using My Script
 
 7.Chat Filter
 
+8.New Unlocable Abilities
+
 **And Many More**
