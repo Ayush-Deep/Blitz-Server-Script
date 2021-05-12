@@ -1,5 +1,0 @@
-damage = []
-heal = []
-healthpo = []
-
-
