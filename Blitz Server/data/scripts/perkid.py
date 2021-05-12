@@ -1,0 +1,5 @@
+damage = []
+heal = []
+healthpo = []
+
+
